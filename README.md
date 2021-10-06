@@ -5,3 +5,5 @@ Install `hadolint` - `brew install hadolint`
 
 I want to make sure that we run `hadolint Dockerfile` so that I can validate/lint the `Dockerfile`
 
+This uses a ci/cd using github actions.
+
